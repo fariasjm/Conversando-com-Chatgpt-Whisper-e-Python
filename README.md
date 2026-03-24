@@ -1,0 +1,1 @@
+# Conversando-com-Chatgpt-Whisper-e-Python
